@@ -17,8 +17,8 @@ If you know it, please don't DM me asking questions.\
 Just make an [issue](https://github.com/retcoob/BMAddons/issues).
 
 ## FAQ
-Q: Does this work on `Windows` or `Linux`?\
-A: This works on both.
+Q: Does this work on `Windows`, `Linux` or `MacOS`?\
+A: Works on all of them.
 
 I haven't gotten any questions yet.
 
