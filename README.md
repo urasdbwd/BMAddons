@@ -6,7 +6,8 @@ I don't care.
 
 **Don't feel like reading all this shit?**\
 Me neither.\
-Head to [releases](https://github.com/retcoob/BMAddons/releases/) for the pre-compiled versions.
+Head to [releases](https://github.com/retcoob/BMAddons/releases/) for the pre-compiled versions.\
+Looking for pre-releases? [Right here!](https://github.com/retcoob/BMAddons/actions)
 
 ## Issues/Questions
 If you encounter an issue or have any questions, make a issue [here](https://github.com/retcoob/BMAddons/issues).\
